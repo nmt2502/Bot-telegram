@@ -8,7 +8,7 @@ from telegram.constants import ParseMode
 
 # --- CẤU HÌNH (ĐÃ TÍCH SẴN TOKEN + CHAT_ID) ---
 TOKEN = "8595477726:AAFVWI0G1ytx56K5pJrUs801dex5_SOlYz8"
-CHAT_ID = "8595477726"
+CHAT_ID = "8213006748"
 API_URL = "https://voltasun.onrender.com/api/volta/sun"
 
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
